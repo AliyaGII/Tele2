@@ -1,0 +1,79 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: 'Times New Roman', Times, serif;
+   
+}
+.name{font-weight: bolder;
+
+}
+.basic-div{
+  padding: 20px;
+  border: solid black 1px;
+  height: 150px;
+}
+
+img{
+ width: 100px;
+}
+
+td{
+  padding-left: 90px;
+  width: 175px;
+}
+
+.price{
+  display: flex;
+  
+}
+.ru{
+padding-left: 15px;
+font-size: 20px;
+}
+.month{
+  padding-left: 25px;
+  font-size: 20px;
+  margin-top: -3mm;
+}
+.rubl{
+  font-size: 55px;
+}
+.gb{
+  font-size: larger;
+  font-weight: bolder;
+}
+
+.button {
+    vertical-align: middle;
+    padding: 17px 43px;
+    border-radius: 30px;
+    font-family: tele2_textsans_regular;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 22px;
+    white-space: nowrap;
+    cursor: pointer;
+    margin: 0 0 20px;
+    min-width: 125px;
+    background: transparent;
+    border: 2px solid #1f2229;
+    color: #1f2229;
+    transition: color .2s linear,background-color .2s linear,border-color .2s linear;
+    text-align: center;
+    outline: none;
+}
+
+.text link{
+  padding-top: 52px; 
+  text-align: right;
+  text-decoration: none;
+  color: #1b3675;
+  outline: none;
+}
